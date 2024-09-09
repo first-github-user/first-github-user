@@ -1,4 +1,6 @@
 ## hello my name is ...
 
+![first-github-user's github stats](https://github-readme-stats.vercel.app/api?username=first-github-user)
+
 hello ....
 
